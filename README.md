@@ -1,4 +1,5 @@
 # BookSearch
+![picture4](https://cloud.githubusercontent.com/assets/26799985/24587895/257f1e56-17dc-11e7-928b-cd0c685d6ecc.png)
 The BOOK SEARCH is an Application on Android Platform that allows user to search books by their names. This app uses OpenLibrary API to search for books and display their cover images.  It also allows you share the result to friends.
 This App contains two screens. The first one is to display the search results and the second one is to show the details of the selected book including name, cover, publisher and no. of pages
 This app allows user to easily search from large database of books and also share that with friends. User just simply need to install the app. This app also shows details about every book user searches 
@@ -27,4 +28,5 @@ Picasso – for fetching remote Image from Database
 
 # Screenshots
 ![picture2](https://cloud.githubusercontent.com/assets/26799985/24587866/a6513fce-17db-11e7-895d-739ddfb8a3c1.png)
+### 
 ![picture3](https://cloud.githubusercontent.com/assets/26799985/24587883/eadb786c-17db-11e7-8d7d-265881f7ed9a.png)
