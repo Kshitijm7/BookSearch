@@ -27,7 +27,8 @@ Android AsyncHTTPClient - Make asynchronus HTTP requests, handle responses in a
 Picasso – for fetching remote Image from Database
 
 # Screenshots
-![picture2](https://cloud.githubusercontent.com/assets/26799985/24587866/a6513fce-17db-11e7-895d-739ddfb8a3c1.png)
-![picture3](https://cloud.githubusercontent.com/assets/26799985/24587883/eadb786c-17db-11e7-8d7d-265881f7ed9a.png)
+<img src="https://cloud.githubusercontent.com/assets/26799985/24587866/a6513fce-17db-11e7-895d-739ddfb8a3c1.png" width="600">
+<img src="https://cloud.githubusercontent.com/assets/26799985/24587883/eadb786c-17db-11e7-8d7d-265881f7ed9a.png" width="600">
+
 # CONCLUSION
 My app named “Book Search” uses open library API to search books from a database and show its details. This app which is built for Android 4.0 Jellybean and higher versions also lets the user share the details obtained.
